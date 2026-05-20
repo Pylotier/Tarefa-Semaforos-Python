@@ -1,9 +1,3 @@
-# 1 - A pista apenas comporta 5 carros
-# 2 - temsos 7 equipes com cada um possuindo dois carros, totalizando 14 carros
-# 3 - Se o 1° carro da equipe ainda estiver na pista o 2° não pode entrar até que ele termine
-# 4 - Cada pilote de carro deve dar 3 voltas pela pista
-# 5 - Marcar quanto tempo cada volta foi concluida
-
 import multiprocessing
 import time
 import random
